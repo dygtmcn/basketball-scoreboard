@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    background-color: #1B244A;
+    width: 575px;
+    height: 385px;
+    margin: 50px auto ;
+}
+
+.teamContainer{
+    margin:auto;
+    text-align:center;
+}
+
+.teamName{
+    color: #EEEEEE;
+    width: 149px;
+    height: 36px;
+    margin: 0px auto;
+    font-family: 'Verdana';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+}
+
+.score{
+    width: 154px;
+    height: 120px;
+    font-family: 'Cursed Timer ULiL';                           
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    color: #F94F6D;
+    background-color: black;
+    margin-top: 21px;
+    margin-bottom: 0px;
+}
+
+.add-points-buttons{
+    margin-top: 26px;
+    color: #9AABD8;
+}
+
+.btn{
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    color: #9AABD8;
+    width: 45px;
+    height: 45px;
+    font-family: 'Cursed Timer ULiL';  
+    background-color: #1B244A;
+}
